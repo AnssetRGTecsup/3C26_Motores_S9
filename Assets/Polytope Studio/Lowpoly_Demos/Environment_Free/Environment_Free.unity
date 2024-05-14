@@ -1730,14 +1730,14 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.33748665, g: 0.6434264, b: 0.9056604, a: 1}
-  m_Intensity: 82.03
-  m_Range: 15.54
-  m_SpotAngle: 116.71931
-  m_InnerSpotAngle: 116.71931
+  m_Color: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
+  m_Intensity: 130.28
+  m_Range: 58
+  m_SpotAngle: 133.68613
+  m_InnerSpotAngle: 52.62242
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
