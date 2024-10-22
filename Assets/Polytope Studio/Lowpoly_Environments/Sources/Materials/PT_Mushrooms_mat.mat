@@ -104,7 +104,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SNOWONOFF: 0
-    - _Smoothness: 0.58
+    - _Smoothness: 0.977
     - _SmoothnessTextureChannel: 0
     - _SnowAmount: 1
     - _SnowCoverage: 0.45
@@ -114,13 +114,13 @@ Material:
     - _UVSec: 0
     - _WINDMASKONOFF: 0
     - _WindDensity: 0.2
-    - _WindMovement: 0.5
+    - _WindMovement: 0.73
     - _WindStrength: 0.027
     - _ZWrite: 0
     - __dirty: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GroundColor: {r: 0.08490568, g: 0.05234205, b: 0.04846032, a: 1}
-    - _TopColor: {r: 0.4811321, g: 0.4036026, b: 0.2382966, a: 1}
+    - _GroundColor: {r: 0.16037738, g: 0.03169723, b: 0.017399436, a: 1}
+    - _TopColor: {r: 0.6886792, g: 0.46652463, b: 0, a: 1}
   m_BuildTextureStacks: []
